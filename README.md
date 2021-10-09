@@ -5,7 +5,10 @@ Architecture, Engineering, Construction, BIM and Technology
 
 <details>
 <summary>ARCHITECTURAL PORTFOLIO</summary>
-  <p><br>
+  <h3>Architectual<br>
+  <h3>BIM<br>
+  <h3>Construction<br>
+  <h3>Engineering<br>
 </details>
 
 <details>
