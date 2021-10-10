@@ -37,7 +37,8 @@ Architecture, Engineering, Construction, BIM and Technology
   <p>You can reach me at natashanewboldlondon@gmail.com<br>
 </details>
 
-PORTFOLIO
+PORTFOLIO <br>
+[Renovation]()
 
 [CV]()
 
