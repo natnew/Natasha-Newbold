@@ -38,7 +38,7 @@ Architecture, Engineering, Construction, BIM and Technology
 </details>
 
 PORTFOLIO <br>
-[Renovation]()
+<img src="https://github.com/natnew/Professional-Portfolio/blob/main/Renovation.JPG" height="200"/>
 
 [CV]()
 
