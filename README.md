@@ -13,7 +13,9 @@ Architecture, Engineering, Construction, BIM and Technology
 
 <details>
 <summary>AEC SERVICES</summary>
-  <p><br>
+  <p>Architecture and Planning]()<br>
+  <p>Facilities Management<br>
+  <p>Construction and Infrastructure Consultation<br>
 </details>
 
 <details>
