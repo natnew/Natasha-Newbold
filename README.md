@@ -5,28 +5,28 @@ Architecture, Engineering, Construction, BIM and Technology
 
 <details>
 <summary>ARCHITECTURAL PORTFOLIO</summary>
-  <h3>Architectual<br>
-  <h3>BIM<br>
-  <h3>Construction<br>
-  <h3>Engineering<br>
+  <h4>Architectual<br>
+  <h4>BIM<br>
+  <h4>Construction<br>
+  <h4>Engineering<br>
 </details>
 
 <details>
 <summary>AEC SERVICES</summary>
-  <p>Architecture and Planning<br>
-  <p>Facilities Management<br>
-  <p>Construction and Infrastructure Consultation<br>
+  <h4>Architecture and Planning<br>
+  <h4>Facilities Management<br>
+  <h4>Construction and Infrastructure Consultation<br>
 </details>
 
 <details>
 <summary>BIM SERVICES</summary>
-  <H3>What is BIM?<br>
-  <H3>What is BIM LOD? (Level of development)<br>
-  <H3>LOD 100<br>
-  <H3>LOD 200<br>
-  <H3>LOD 300<br>
-  <H3>LOD 400<br>
-  <H3>LOD 500<br>
+  <h4>What is BIM?<br>
+  <h4>What is BIM LOD? (Level of development)<br>
+  <h4>LOD 100<br>
+  <h4>LOD 200<br>
+  <h4>LOD 300<br>
+  <h4>LOD 400<br>
+  <h4>LOD 500<br>
 </details>
 
 <details>
