@@ -9,6 +9,12 @@ Architecture, Engineering, Construction, BIM and Technology
   <h4>BIM<br>
   <h4>Construction<br>
   <h4>Engineering<br>
+  <H4>Environmental Engineering<br>
+  <H4>Sustainability<br>
+  <H4>Interiors<br>
+  <H4>Project Management<br>
+  <H4>workplace Consultancy<br>
+  <Visualisation and Film<br>
 </details>
 
 <details>
